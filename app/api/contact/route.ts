@@ -20,7 +20,7 @@ export async function POST(req: Request) {
 				port: 465,
 				secure: true,
 				auth: {
-					user: "pvnirmala@gmail.com",
+					user: "pvnirmala10@gmail.com",
 					pass: "9440127296",
 				},
 			});
